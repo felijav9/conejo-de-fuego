@@ -1,0 +1,1 @@
+table-<?php echo e($key); ?><?php /**PATH C:\laragon\www\Restaurant-master\storage\framework\views/9bb0f7b76aeb0fe679c2824736113c89.blade.php ENDPATH**/ ?>

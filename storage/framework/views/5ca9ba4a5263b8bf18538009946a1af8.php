@@ -1,0 +1,1 @@
+<?php echo e($toast['id']); ?><?php /**PATH C:\laragon\www\Restaurant-master\storage\framework\views/ea2f86bd98f97b3c8b38c0edfd304836.blade.php ENDPATH**/ ?>

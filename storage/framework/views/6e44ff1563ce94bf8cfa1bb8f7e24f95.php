@@ -1,0 +1,1 @@
+item-<?php echo e($index); ?><?php /**PATH C:\laragon\www\proyecto-restaurante\storage\framework\views/e57900eed8f8c3c8674eccd1e8cc1e41.blade.php ENDPATH**/ ?>

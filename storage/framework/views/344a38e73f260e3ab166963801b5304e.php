@@ -1,0 +1,1 @@
+details-edit-<?php echo e($module); ?><?php /**PATH C:\laragon\www\Restaurant-master\storage\framework\views/b4bf5cd6331ef4770d9cd1d82eb11874.blade.php ENDPATH**/ ?>
